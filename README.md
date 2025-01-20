@@ -14,7 +14,7 @@ This repository contains the frontend task for Zysk Company, developed using Rea
 - **Styling**: Tailwind CSS
 - **Icons**: React Icons
 
-## Deployed Link :-[Zysk](https://zysktask-xi.vercel.app/)
+## Deployed Link :- [Zysk](https://zysktask-xi.vercel.app/)
 
 ## Installation and Setup
 
