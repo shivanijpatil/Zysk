@@ -16,6 +16,9 @@ This repository contains the frontend task for Zysk Company, developed using Rea
 
 ## Deployed Link :- [Zysk](https://zysktask-xi.vercel.app/)
 
+## 🖼️ Screenshots
+![modified_image (1)](https://github.com/user-attachments/assets/22fd9251-2d99-4dfb-80dd-9983dc79e41d)
+
 ## Installation and Setup
 
 1. **Clone the repository**:
